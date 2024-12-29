@@ -13,16 +13,39 @@
 ## 快速开始
 
 1. 克隆本仓库
+
    ```bash
    git clone https://github.com/your-username/cursor-tutorial.git
    cd cursor-tutorial
    ```
 
 2. 查看文档
+   - 基础教程: `docs/basic.md`
+   - 进阶技巧: `docs/advanced.md`
+   - 配置说明: `docs/configuration.md`
 
-- 基础教程: `docs/basic.md`
-- 进阶技巧: `docs/advanced.md`
-- 配置说明: `docs/configuration.md`
+## 学习资源
+
+### 官方资源
+
+- [Cursor 官方文档](https://www.cursor.com/)  
+  官方英文文档，建议配合沉浸式翻译插件进行中英文对照学习
+
+- [Cursor 中文文档](https://www.cursordocs.com/zh)  
+  适合快速入门的中文文档
+
+- [Cursor 更新日志](https://www.cursor.com/changelog)  
+  了解最新版本特性和更新
+
+### 社区资源
+
+- [Cursor 官方论坛](https://forum.cursor.com/)  
+  获取最新讨论和交流
+
+### 特定功能文档
+
+- [代码库索引使用指南](https://cursordocs.com/zh/docs/context/codebase-indexing)  
+  终端相关功能的详细说明
 
 ## 贡献指南
 
