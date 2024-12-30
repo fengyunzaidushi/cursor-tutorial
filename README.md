@@ -20,9 +20,28 @@
    ```
 
 2. 查看文档
-   - 基础教程: `docs/basic.md`
-   - 进阶技巧: `docs/advanced.md`
-   - 配置说明: `docs/configuration.md`
+   - 基础教程: `docs/01-Settings/01General.md`
+   - 进阶技巧: `examples/02-chat模式梳理项目逻辑.md`
+  
+## 待完善
+- [ ] tab
+- [ ] composer
+- [ ] chat
+- [ ] cmddk
+- [ ] context
+  - [ ] Codebase indexing
+  - [ ] .cursorrules
+  - [ ] @files,@Folders,
+  - [ ] @Docs,
+  - [ ] @Git
+  - [ ] @Codebase
+  - [ ] @Chat
+  - [ ] @Codebase
+  - [ ] @Definitions
+  - [ ] @Link
+- [ ] notepad
+- [ ] 
+
 
 ## 学习资源
 
